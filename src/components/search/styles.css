@@ -1,0 +1,16 @@
+.search-pokemon{
+  text-align: center;
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+.input-search-pokemon{
+  width: 30vw;
+  height: 50px;
+  border: 2px solid #FDD824;
+  border-radius: 8px;
+  text-align: center;
+  font-size: large;
+  color: #656565;
+}
